@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileBankingBackend", "MobileBankingBackend\MobileBankingBackend.csproj", "{AC4CB4A3-81AA-4F2E-99FC-0BBB25C2B10E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC4CB4A3-81AA-4F2E-99FC-0BBB25C2B10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4CB4A3-81AA-4F2E-99FC-0BBB25C2B10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4CB4A3-81AA-4F2E-99FC-0BBB25C2B10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4CB4A3-81AA-4F2E-99FC-0BBB25C2B10E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ACC0401-660A-4353-A5A1-CDA3D58B49BC}
+	EndGlobalSection
+EndGlobal
