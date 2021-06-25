@@ -1,0 +1,20 @@
+
+admin1 {
+    login: admin1,
+    passw: admin
+}
+
+worker1 {
+    login: worker1,
+    passw: admin
+}
+
+customer1 {
+    login: customer1,
+    passw: admin
+}
+
+customer2 {
+    login: customer2@test.com,
+    passw: admin
+}
